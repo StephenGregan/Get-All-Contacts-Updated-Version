@@ -67,8 +67,8 @@ namespace GetAllContactsFromInterpreterIntelligence
                             var json = client.DownloadString("https://tie.interpreterintelligence.com:443/api/contact/" + count);
                             dynamic rootjson = JsonConvert.DeserializeObject(json);
                             //Console.WriteLine(json);
-                            File.AppendAllText(@"C:\Users\Ronan\source\repos\GeAllContactsUpdatedVersion\GeAllContactsUpdatedVersion\allContacts.json", JsonConvert.SerializeObject(rootjson));
-                            File.AppendAllText(@"C:\Users\Ronan\source\repos\GeAllContactsUpdatedVersion\GeAllContactsUpdatedVersion\allContacts.json", Environment.NewLine);
+                            File.AppendAllText(@"C:\Users\Ronan\source\repos\ContactLoader\Contacts\Schema_And_Data\stephenscontacts.json", JsonConvert.SerializeObject(rootjson));
+                            File.AppendAllText(@"C:\Users\Ronan\source\repos\ContactLoader\Contacts\Schema_And_Data\stephensContacts.json", Environment.NewLine);
                             Console.WriteLine("Contents successfully writing to file.....Record: " + count + " Batch 1");
                         }
                     }

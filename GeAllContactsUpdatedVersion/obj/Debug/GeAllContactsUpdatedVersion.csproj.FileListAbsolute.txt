@@ -1,0 +1,10 @@
+C:\Users\Ronan\source\repos\GeAllContactsUpdatedVersion\GeAllContactsUpdatedVersion\bin\Debug\GeAllContactsUpdatedVersion.exe.config
+C:\Users\Ronan\source\repos\GeAllContactsUpdatedVersion\GeAllContactsUpdatedVersion\bin\Debug\GeAllContactsUpdatedVersion.exe
+C:\Users\Ronan\source\repos\GeAllContactsUpdatedVersion\GeAllContactsUpdatedVersion\bin\Debug\GeAllContactsUpdatedVersion.pdb
+C:\Users\Ronan\source\repos\GeAllContactsUpdatedVersion\GeAllContactsUpdatedVersion\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ronan\source\repos\GeAllContactsUpdatedVersion\GeAllContactsUpdatedVersion\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ronan\source\repos\GeAllContactsUpdatedVersion\GeAllContactsUpdatedVersion\obj\Debug\GeAllContactsUpdatedVersion.csprojResolveAssemblyReference.cache
+C:\Users\Ronan\source\repos\GeAllContactsUpdatedVersion\GeAllContactsUpdatedVersion\obj\Debug\GeAllContactsUpdatedVersion.csproj.CoreCompileInputs.cache
+C:\Users\Ronan\source\repos\GeAllContactsUpdatedVersion\GeAllContactsUpdatedVersion\obj\Debug\GeAllContactsUpdatedVersion.csproj.CopyComplete
+C:\Users\Ronan\source\repos\GeAllContactsUpdatedVersion\GeAllContactsUpdatedVersion\obj\Debug\GeAllContactsUpdatedVersion.exe
+C:\Users\Ronan\source\repos\GeAllContactsUpdatedVersion\GeAllContactsUpdatedVersion\obj\Debug\GeAllContactsUpdatedVersion.pdb
