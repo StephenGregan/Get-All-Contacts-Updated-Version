@@ -52,6 +52,11 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <None Include="allContacts1.json" />
+    <None Include="allContacts2.json" />
+    <None Include="allContacts3.json" />
+    <None Include="allContacts4.json" />
+    <None Include="allContacts5.json" />
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
